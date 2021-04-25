@@ -1,0 +1,392 @@
+<html>
+	<head>
+		<title>UNES - Página principal</title>
+		<meta charset="utf-8">
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>E-Commerce</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Importing fonts -->
+    <!-- Source Sans Pro -->
+    <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400i|Source+Sans+Pro:300,400,600,700" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,600,700" rel="stylesheet">
+
+    <!-- Importing CSSs -->
+    <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="plugins/owl-carousel/owl.carousel.css">
+    <link rel="stylesheet" href="plugins/magnific-popup/magnific-popup.css">
+    <link rel="stylesheet" href="css/style.css">
+    
+</head>
+
+<body id="body">
+
+    <!-- Navigation bar -->
+    <header>
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
+
+              <!-- The company name that is seen on the top of the page -->
+                <a class="navbar-brand" href="#">MUNDO DO CELULAR</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto text-center text-lg-left">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">HOME</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#about">SOBRE</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#service">SERVIÇOS</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#contact">CONTATO</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <!-- Navigation bar finished -->
+
+    <!-- Main body -->
+    
+    <section class="section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 text-center mb-5 mb-md-0">
+                    <img src="https://img.ibxk.com.br/2020/01/29/29104433638280.jpg?w=1120&h=420&mode=crop&scale=both" alt="iPhone" style="max-width: 100%;">
+                </div>
+                <div class="col-md-6 align-self-center text-center text-md-left">
+                    <div class="block">
+                        <h1 class="font-weight-bold mb-4 font-size-60">SOMOS A MAIOR LOJA ONLINE DO BRASIL</h1>
+                        <p class="mb-4">O Smartphone que Você Procura Está na Loja Online da MUNDO DO CELULAR em Até 12x Sem Juros e Frete Grátis. O Aparelho que Você Quer Está na Loja MUNDO DO CELULARem Até 12x Sem Juros e com Frete Grátis. Velocidade 4.5G. Smartphones Com Os Melhores Preços e Descontos.</p>
+                        <a class="btn btn-main" href="#about" role="button">Compre Seu Smartphone A Partir de  R$999</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Features -->
+    <section id="about" class="section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="heading">
+                        <h2>TEMOS AS PRINCIPAIS MARCAS</h2>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="mb-40 text-center text-md-left">
+                        <i class="d-inlin-block h2 mb-10 tf-ion-ios-alarm-outline"></i>
+                        <h4 class="font-weight-bold mb-2">IPHONE</h4>
+                        <p>Não existe nada como o iPhone. Tudo da Apple está na MUNDO DO CELULAR. Corra e aproveite. Os melhores preços. Parcele em Até 18x* Pagamento Parcelado. Compra Segura.</p>
+                    </div>
+                    <div class="mb-40 text-center text-md-left">
+                        <i class="d-inlin-block h2 mb-10 tf-ion-ios-bell-outline"></i>
+                        <h4 class="font-weight-bold mb-2">SAMSUNG</h4>
+                        <p>Samsung Galaxy em promoção, tem no MUNDO DO CELULAR! Os menores preços em Celulares e Smartphones com entrega garantida você encontra aqui. Confira!</p>
+                    </div>
+                    <div class="mb-40 text-center text-md-left">
+                        <i class="d-inlin-block h2 mb-10 tf-ion-ios-cart-outline"></i>
+                        <h4 class="font-weight-bold mb-2">MOTOROLA</h4>
+                        <p>Você Compra seu Smartphone Novo e Parcela em Até 12x sem Juros, Confira no Site. O seu Moto G Está Aqui na MUNDO DO CELULAR. Aproveite, Compre Online na MUNDO DO CELULAR. Ofertas Exclusivas.Site 100% Seguro.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 text-center align-self-center mb-4 mb-md-0">
+                    <img class="img-fluid" src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-blue-select-2020?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1604343704000" alt="iPhone 2">
+                </div>
+                <div class="col-md-4">
+                    <div class="mb-40 text-center text-md-left">
+                        <i class="d-inlin-block h2 mb-10 tf-ion-ios-alarm-outline"></i>
+                        <h4 class="font-weight-bold mb-2">iPhone 12</h4>
+                        <p>Compre um iPhone 12 ou iPhone 12 mini novo da Apple com entrega e devolução grátis. Configuração personalizada disponível.</p>
+                    </div>
+                    <div class="mb-40 text-center text-md-left">
+                        <i class="d-inlin-block h2 mb-10 tf-ion-ios-bell-outline"></i>
+                        <h4 class="font-weight-bold mb-2">iPhone 11</h4>
+                        <p>Compre um iPhone 11 novo da Apple com entrega e devolução grátis. Configuração personalizada disponível.</p>
+                    </div>
+                    <div class="mb-40 text-center text-md-left">
+                        <i class="d-inlin-block h2 mb-10 tf-ion-ios-cart-outline"></i>
+                        <h4 class="font-weight-bold mb-2">iPhone SE</h4>
+                        <p>Compre um iPhone SE novo da Apple com entrega e devolução grátis. Vem com o chip A13 Bionic. Configuração personalizada disponível.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 text-center mb-5 mb-lg-0">
+                    <img class="img-fluid" src="images/phone.jpg" alt="">
+                </div>
+                <div class="col-md-6 align-self-center text-center text-md-left">
+                    <div class="content">
+                        <h2 class="subheading font-weight-bold mb-10">CONHEÇA MAIS PRODUTOS DA APPLE?</h2>
+                        <p>A linha completa de produtos Apple desde iPhone, iPad, toda a linha Mac, Macbook, iMac, além de AirPod, Apple Watch, Apple TV e acessórios, como cabos</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="feature-list section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="heading">
+                        <h2> COMPRE O SEU SAMSUNG</h2>
+                    </div>
+                </div>
+
+            </div>
+            <div class="row mb-40">
+                <div class="col-md-6 text-center mb-5 mb-lg-0">
+                    <img class="img-fluid" src="https://lojaonline.vivo.com.br/medias/sys_master/root/h53/h81/13605618057246/samsung-galaxy-z-fold2-preto-frente-dobrada.png" alt="">
+                </div>
+                <div class="col-md-6 align-self-center text-center text-md-left">
+                    <div class="content">
+                        <h4 class="subheading">Samsung Galaxy Z Fold2</h4>
+                        <p>Samsung Galaxy Z Fold2 5G,Preto, Tela de 6.2 Pol., Mult. Câm. 12MP</p>
+                        <a href="" class="btn btn-main btn-main-sm">Compre a partir de R$ 10.599,00</a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 order-md-1 order-2 align-self-center text-center text-md-left">
+                    <div class="content">
+                        <h4 class="subheading">Moto G100</h4>
+                        <p>Compre o Moto G100 5G + Cabo HDMI USB-C + Suporte multimídia e ganhe o fone de ouvido bluetooth motorola Vervebuds 500 branco. Promoção válida enquanto durarem os estoques.</p>
+                        <a href="#" class="btn btn-main btn-main-sm">Compre a Partir de R$ 3.599,10</a>
+                    </div>
+                </div>
+                <div class="col-md-6 order-md-2 order-1 text-center mb-5 mb-lg-0">
+                    <img class="img-fluid" src="https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1685156448" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- A showcase gallery -->
+    <section id="service" class="gallery">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="heading">
+                        <h2>Conheça Todas As Nossas Linhas de Smatwatches</h2>
+                    </div>
+
+                    <div class="gallery-slider">
+                        <div class="block">
+                            <div class="gallery-overlay">
+                                <a href="images/showcase-2.png" class="image-popup gallery-popup">
+                                    <i class="tf-ion-ios-search"></i>
+                                </a>
+                            </div>
+
+                            <img class="img-fluid" src="images/showcase-3.png" alt="">
+                        </div>
+
+                        <div class="block">
+                            <div class="gallery-overlay">
+                                <a href="images/showcase-2.png" class="image-popup gallery-popup">
+                                    <i class="tf-ion-ios-search"></i>
+                                </a>
+                            </div>
+
+                            <img class="img-fluid" src="images/showcase-4.png" alt="">
+                        </div>
+
+                        <div class="block">
+                            <div class="gallery-overlay">
+                                <a href="images/showcase-2.png" class="image-popup gallery-popup">
+                                    <i class="tf-ion-ios-search"></i>
+                                </a>
+                            </div>
+
+                            <img class="img-fluid" src="images/showcase-5.png" alt="">
+                        </div>
+
+                        <div class="block">
+                            <div class="gallery-overlay">
+                                <a href="images/showcase-2.png" class="image-popup gallery-popup">
+                                    <i class="tf-ion-ios-search"></i>
+                                </a>
+                            </div>
+
+                            <img class="img-fluid" src="images/showcase-6.png" alt="">
+                        </div>
+
+                        <div class="block">
+                            <div class="gallery-overlay">
+                                <a href="images/showcase-2.png" class="image-popup gallery-popup">
+                                    <i class="tf-ion-ios-search"></i>
+                                </a>
+                            </div>
+
+                            <img class="img-fluid" src="images/showcase-7.png" alt="">
+                        </div>
+                        <div class="block">
+                            <div class="gallery-overlay">
+                                <a href="images/showcase-2.png" class="image-popup gallery-popup">
+                                    <i class="tf-ion-ios-search"></i>
+                                </a>
+                            </div>
+
+                            <img class="img-fluid" src="images/showcase-3.png" alt="">
+                        </div>
+
+                        <div class="block">
+                            <div class="gallery-overlay">
+                                <a href="images/showcase-2.png" class="image-popup gallery-popup">
+                                    <i class="tf-ion-ios-search"></i>
+                                </a>
+                            </div>
+
+                            <img class="img-fluid" src="images/showcase-4.png" alt="">
+                        </div>
+
+                        <div class="block">
+                            <div class="gallery-overlay">
+                                <a href="images/showcase-2.png" class="image-popup gallery-popup">
+                                    <i class="tf-ion-ios-search"></i>
+                                </a>
+                            </div>
+
+                            <img class="img-fluid" src="images/showcase-5.png" alt="">
+                        </div>
+
+                        <div class="block">
+                            <div class="gallery-overlay">
+                                <a href="images/showcase-2.png" class="image-popup gallery-popup">
+                                    <i class="tf-ion-ios-search"></i>
+                                </a>
+                            </div>
+
+                            <img class="img-fluid" src="images/showcase-6.png" alt="">
+                        </div>
+
+                        <div class="block">
+                            <div class="gallery-overlay">
+                                <a href="images/showcase-2.png" class="image-popup gallery-popup">
+                                    <i class="tf-ion-ios-search"></i>
+                                </a>
+                            </div>
+
+                            <img class="img-fluid" src="images/showcase-7.png" alt="">
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- A email subscription form -->
+    <section class="call-to-action section bg-opacity bg-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-8 text-center mx-auto">
+                    <h2 class="subheading text-white">Procure Pelo Seu Modelo</h2>
+                    <p class="text-white">Não achou o que procuva? Digite aqui seu e-mail que entramos em contato com informações do seu produto</p>
+                    <div class="input-group">
+                        <form action="#" class="w-100">
+                            <input type="email" id="email" class="form-control" name="email" placeholder="Digite Seu Email Aqui" required>
+                            <button class="btn btn-main btn-submit" type="submit">Inscrever</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Your team info here -->
+    <section id="contact" class="testimonials section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <div class="heading">
+                        <h2> Avaliaçõe Dos Nossos Clientes </h2>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0 text-center">
+                    <div class="testimonial-block">
+                        <i class="tf-ion-quote"></i>
+                        <p>
+                            “Uma empresa que pensa no futuro, deve oferecer três pilares básicos: credibilidade, honestidade e assiduidade. Nestes 21 anos de relacionamento com a MUNDO CELULAR, podemos atestar que esses requisitos sempre foram assumidos com muita dedicação e presteza.”
+
+                        </p>
+                        <div class="author-details">
+                            <img src="images/avatar.jpg" alt="">
+                            <h4>Luiz Carlos Miranda</h4>
+                            <span>Gerente Local</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0 text-center">
+                    <div class="testimonial-block">
+                        <i class="tf-ion-quote"></i>
+                        <p>
+                                “Queremos parabenizar a MUNDO DO CELULAR por todos esses anos de parceria, nos atendendo de forma especial, com produtos de qualidade e profissionais altamente qualificados.”
+
+                        </p>
+                        <div class="author-details">
+                            <img src="images/avatar.jpg" alt="">
+                            <h4>Adriana Aguiar</h4>
+                            <span>Gerente Administrativo</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0 text-center">
+                    <div class="testimonial-block">
+                        <i class="tf-ion-quote"></i>
+                        <p>
+                                “A seriedade da empresa é fundamental na hora de escolhermos um brinde. É muito importante podermos confiar na qualidade dos produtos e cumprimento dos prazos. Nesses anos de parceria, temos encontrado tudo isso na MUNDO DO CELULAR.”
+                        </p>
+                        <div class="author-details">
+                            <img src="images/avatar.jpg" alt="">
+                            <h4>Karina Silva</h4>
+                            <span>Analista de Publicidade e Promoção</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row mt-100">
+                <div class="col-md-12 text-center">
+                    <a href="" class="btn btn-main">Deixe Aqui Seu Comentário</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Importing Scripts -->
+    <script src="plugins/jquery-2.1.1.min.js"></script>
+    <script src="plugins/bootstrap/bootstrap.min.js"></script>
+    <script src="plugins/owl-carousel/owl.carousel.min.js"></script>
+    <script src="plugins/magnific-popup/jquery.magnific.popup.min.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>
